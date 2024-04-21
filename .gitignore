@@ -1,0 +1,11 @@
+**/archives/
+images
+P3*
+P5*
+*DiteSchool
+Référentiel*
+*déroulé*
+*liaison*
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.idea/
